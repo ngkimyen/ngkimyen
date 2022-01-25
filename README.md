@@ -5,7 +5,7 @@
    💫 Love to learn new things
    <br></br>
    💫 Open and friendly. 
-  
+   <br></br>
 ### Skills and Experience 
 <hr style="width:50%">
 💻 HTML, CSS  
@@ -13,14 +13,13 @@
 🖥 JavaScript    
 <br></br>
 ⚛️ ReactJS
-
+ <br></br>
 ### Contact 
 <hr style="width:50%">
 🔹 LinkedIn : https://www.linkedin.com/in/ngkimyen/
    <br></br>
 🔹 Gmail : ngkimyen7901@gmail.com 
-
-
+ <br></br>
 [![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngkimyen)](https://github.com/anuraghazra/github-readme-stats)
 
 
