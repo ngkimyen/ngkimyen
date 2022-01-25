@@ -5,6 +5,12 @@
    💫 Love to learn new things
    <br></br>
    💫 Open and friendly. 
+  
+### Skills and Experience 
+- HTML, CSS
+- JavaScript
+- ReactJS
+
    
    
 
