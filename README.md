@@ -8,9 +8,9 @@
   
 ### Skills and Experience 
 <hr style="width:50%">
-- 💻 HTML, CSS   <br></br>
-- 🖥 JavaScript    <br></br>
-- ⚛️ ReactJS
+-  HTML, CSS   <br></br>
+-  JavaScript    <br></br>
+-  ReactJS
 
 
 ### Projects 
