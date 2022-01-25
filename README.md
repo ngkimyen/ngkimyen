@@ -8,8 +8,10 @@
   
 ### Skills and Experience 
 <hr style="width:50%">
--  HTML, CSS   <br></br>
--  JavaScript    <br></br>
+-  HTML, CSS  
+ <br></br>
+-  JavaScript    
+<br></br>
 -  ReactJS
 
 
