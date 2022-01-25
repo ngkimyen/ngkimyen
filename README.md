@@ -7,7 +7,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+[![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?ngkimyen)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
