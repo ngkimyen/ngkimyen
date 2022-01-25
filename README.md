@@ -21,6 +21,7 @@
 ### Contact 
 <hr style="width:50%">
 🔹 LinkedIn : https://www.linkedin.com/in/ngkimyen/
+   <br></br>
 🔹 Gmail : ngkimyen7901@gmail.com 
 
 
