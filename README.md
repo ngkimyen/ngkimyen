@@ -14,10 +14,6 @@
 <br></br>
 ⚛️ ReactJS
 
-### Projects 
-<hr style="width:50%">
-  
-
 ### Contact 
 <hr style="width:50%">
 🔹 LinkedIn : https://www.linkedin.com/in/ngkimyen/
