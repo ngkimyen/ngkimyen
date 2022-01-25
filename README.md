@@ -19,7 +19,7 @@
 🔹 LinkedIn : https://www.linkedin.com/in/ngkimyen/
    <br></br>
 🔹 Gmail : ngkimyen7901@gmail.com 
- <br></br>
+
 [![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngkimyen)](https://github.com/anuraghazra/github-readme-stats)
 
 
