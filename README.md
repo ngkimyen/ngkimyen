@@ -3,6 +3,7 @@
 ### Yen Kim Nguyen - Passionate Web Developer
 
    💫 Love to learn new things
+   <br></br>
    💫 Open and friendly. 
 
 
