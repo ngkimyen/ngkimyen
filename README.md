@@ -2,8 +2,8 @@
 
 ### Yen Kim Nguyen - Passionate Web Developer
 
-    💫 Love to learn new things
-    💫 Open and friendly. 
+   💫 Love to learn new things
+   💫 Open and friendly. 
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
