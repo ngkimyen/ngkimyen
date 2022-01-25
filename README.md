@@ -5,7 +5,7 @@
    💫 Love to learn new things
    <br></br>
    💫 Open and friendly. 
-   <br></br>
+
 ### Skills and Experience 
 <hr style="width:50%">
 💻 HTML, CSS  
@@ -13,7 +13,7 @@
 🖥 JavaScript    
 <br></br>
 ⚛️ ReactJS
- <br></br>
+
 ### Contact 
 <hr style="width:50%">
 🔹 LinkedIn : https://www.linkedin.com/in/ngkimyen/
