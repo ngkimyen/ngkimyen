@@ -8,11 +8,11 @@
   
 ### Skills and Experience 
 <hr style="width:50%">
--  HTML, CSS  
+- HTML, CSS  
  <br></br>
--  JavaScript    
+- JavaScript    
 <br></br>
--  ReactJS
+- ReactJS
 
 
 ### Projects 
