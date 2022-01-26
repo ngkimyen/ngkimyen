@@ -1,16 +1,29 @@
-### Hi there 👋
+![githubcover](https://github.com/ngkimyen/ngkimyen/blob/main/github%20cover.png)
 
-<!--
-**ngkimyen/ngkimyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Nguyen Kim Yen - Passionate Web Developer
+<hr style="width:50%">
+   💫 Love to learn new things
+   <br></br>
+   💫 Open and friendly. 
 
-Here are some ideas to get you started:
+### Skills and Experience 
+<hr style="width:50%">
+💻 HTML, CSS  
+ <br></br>
+🖥 JavaScript    
+<br></br>
+⚛️ ReactJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact 
+<hr style="width:50%">
+🔹 LinkedIn : https://www.linkedin.com/in/ngkimyen/
+   <br></br>
+🔹 Gmail : ngkimyen7901@gmail.com 
+   <br></br>
+   
+[![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngkimyen)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
