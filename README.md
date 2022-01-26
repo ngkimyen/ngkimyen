@@ -1,4 +1,4 @@
-![githubcover](https://github.com/ngkimyen/ngkimyen/blob/main/github%20cover.png)
+![githubcover](https://github.com/ngkimyen/ngkimyen/blob/main/LinkedIn%20cover%20copy.png?raw=true)
 
 ### Nguyen Kim Yen - Passionate Web Developer
 <hr style="width:50%">
